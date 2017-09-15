@@ -1,14 +1,14 @@
 # Quero ser Btime!
 
-Nossa solução é um SaaS de Gestão de Equipes Externas, usamos tecnologia PHP onde nosso stack se baseia em: Symfony Framework, MySQL, Redis, RabbitMQ. Procuramos um profissional que tenha sólidos conhecimentos de arquitetura e capacidade de pensar fora da caixa solucionando problemas de forma simples e rápida, levando-se em conta temas como segurança, tratamento de erros, separação de camadas/responsabilidades, performance, reusabilidade e aderência a padrões de projetos.
+Nossa solução é um SaaS de Gestão de Equipes Externas, atuando com NodeJS (backend), Angular 4 (frontend) e React Native (mobile). Procuramos profissionais que tenham sólidos conhecimentos de arquitetura e capacidade de pensar fora da caixa solucionando problemas de forma simples e rápida, levando-se em conta temas como segurança, tratamento de erros, separação de camadas/responsabilidades, performance, reusabilidade e aderência a padrões de projetos.
 
 ## Local
 
-WeWork Paulista, São Paulo - SP | em frente ao metrô ;)
+Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 
 ## Nossa empresa
 
-A Btime é uma startup que está mudando a forma com que as pessoas trabalham. Fomos acelerados pela Liga AutoTech, e buscamos formar uma equipe qualificada e multidisciplinar para atender a crescente demanda, com objetivo de construir soluções em conjunto, onde maior valor é o sucesso de nossos clientes.
+A Btime é uma startup que está mudando a forma com que as pessoas trabalham. Fomos acelerados pela Liga AutoTech e agora pelo Oxigênio Aceleradora, com investimento da Porto Seguro e Plug and Play, e buscamos formar uma equipe qualificada e multidisciplinar para atender a crescente demanda, com objetivo de construir soluções inovadoras, onde maior valor é o sucesso de nossos clientes.
 
 Nós oferecemos um ambiente descontraído em que todos os membros possuem a liberdade e responsabilidade de criar as melhores soluções possíveis, isso contando com o suporte de todos os membros, do estagiário até o CEO.
 
@@ -45,14 +45,6 @@ Precisamos de gente que:
 * Que reconheça que a linguagem **&lt;escolha sua linguagem favorita&gt;** não é a melhor linguagem/solução para todos os problemas.
 * Ter graduação é legal! Mas se você não for formado, não tem problema. Conhecemos vários profissionais plenamente capacitados que não são formados.
 
-## Oferecemos
-
-- máquina de chopp com lençol freático =)
-- flexibilidade de horário
-- café e leite a vontade
-- mesa de ping pong
-- área de descanso
-
 ## Modelo de contrato
 
 PJ a combinar
@@ -60,29 +52,67 @@ PJ a combinar
 
 ## [Posições](id:posicoes)
 ----
-#### [Software Engineer](id:Qualificacoes-SE)
+#### [Backend Engineer](id:Qualificacoes-BE)
 **Qualificações mínimas**
-- PHP 5+
-- Symfony
+- JavaScript
+- NodeJS
+- Express
+- Sequelize
 - MySQL
+- RESTFul API
 - Design Patterns
-- PHPUnit
 
 **Desejáveis:**
 - Git/BitBucket
 - Google APIs
 - Redis
 - RabbitMQ
-- RESTFul API
 - Docker
+- Agile/SCRUM
 
 **Diferenciais:**
 - TDD
 - SOLID (object-oriented design)
 - Elastic Search
 - Java
-- NodeJs
+- PHP
+----
+#### [Frontend Engineer](id:Qualificacoes-FE)
+**Qualificações mínimas**
+- JavaScript
+- Angular 4
+- HTML5
+- CSS3
+- SASS
 
+**Desejáveis:**
+- Git/BitBucket
+- Google APIs
+- Docker
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD
+- SOLID (object-oriented design)
+- React
+- VueJS
+----
+#### [Mobile Engineer](id:Qualificacoes-ME)
+**Qualificações mínimas**
+- JavaScript
+- React Native
+- React
+
+**Desejáveis:**
+- Git/BitBucket
+- Google APIs
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD
+- SOLID (object-oriented design)
+- Java Android Native
+- Swift iOS Native
 
 ## [Nossos Links](id:Extra-Links)
 * [Btime](https://btime.com.br/)
