@@ -52,7 +52,30 @@ PJ a combinar
 
 ## [Posições](id:posicoes)
 ----
-#### [Backend Engineer](id:Qualificacoes-BE)
+#### [Backend Engineer PHP](id:Qualificacoes-BE)
+**Qualificações mínimas**
+- PHP
+- Symfony Framework
+- MySQL
+- RESTFul API
+- Design Patterns
+
+**Desejáveis:**
+- Git/BitBucket
+- Google APIs
+- Redis
+- RabbitMQ
+- Docker
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD
+- SOLID (object-oriented design)
+- Elastic Search
+- Java
+- NodeJs
+----
+#### [Backend Engineer NodeJS](id:Qualificacoes-BE)
 **Qualificações mínimas**
 - JavaScript
 - NodeJS
