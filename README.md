@@ -37,6 +37,15 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 
 \* Este processo pode ser alterado sem prévio aviso. Então, fique esperto com as atualizações deste README! :-)
 
+### [Dicas Importantes](id:DicasImportantes)
+Para um teste bem sucedido onde garantirá a próxima etapa, tente aplicar:
+
+* Orientação a Objetos;
+* Legibilidade de Código;
+* Testes Unitários;
+* Design Patterns;
+* S.O.L.I.D.
+
 ### [Requisitos Básicos](id:RequisitosBasicos)
 Precisamos de gente que:
 
