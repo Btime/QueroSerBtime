@@ -1,6 +1,6 @@
 # Quero ser Btime!
 
-Nossa solução é um SaaS de Gestão de Equipes Externas, atuando com NodeJS (backend), Angular 4 (frontend) e React Native (mobile). Procuramos profissionais que tenham sólidos conhecimentos de arquitetura e capacidade de pensar fora da caixa solucionando problemas de forma simples e rápida, levando-se em conta temas como segurança, tratamento de erros, separação de camadas/responsabilidades, performance, reusabilidade e aderência a padrões de projetos.
+Nossa solução é um SaaS de Gestão de Equipes Externas, atuando com PHP e NodeJS (backend), Jquery e Angular 4 (frontend) e Android Nativo e React Native (mobile). Procuramos profissionais que tenham sólidos conhecimentos de arquitetura e capacidade de pensar fora da caixa solucionando problemas de forma simples e rápida, levando-se em conta temas como segurança, tratamento de erros, separação de camadas/responsabilidades, performance, reusabilidade e aderência a padrões de projetos.
 
 ## Local
 
