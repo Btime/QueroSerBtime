@@ -4,6 +4,9 @@ export default class PrimeWord {
   }
 
   isPrime (word) {
-    return typeof word
+    if (!word) {
+      return new Error('Word must be a valid string')
+    }
+    return word
   }
 }
