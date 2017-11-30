@@ -4,7 +4,7 @@
   "description": "Apply for job in BTime company",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test --compilers js:babel-core/register --timeout 60000 --reporter spec"
+    "test": "mocha --compilers js:babel-core/register test --timeout 60000 --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -23,10 +23,13 @@
   "homepage": "https://github.com/FelipeBarrosCruz/QueroSerBtime#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.2",
     "babel-preset-env": "^1.6.1",
-    "babel-preset-latest": "^6.24.1",
-    "babel-preset-stage-3": "^6.24.1",
     "chai": "^4.1.2",
+    "eslint": "^4.12.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-mocha": "^4.11.0",
     "mocha": "^4.0.1"
   }
 }

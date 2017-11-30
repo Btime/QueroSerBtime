@@ -1,8 +1,5 @@
 {
-  "babel": {
-    "presets": [
-      "stage-3",
-      "latest"
-    ]
-  }
+  "presets": [
+    "env"
+  ]
 }
