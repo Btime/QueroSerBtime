@@ -10,7 +10,6 @@ export default class PrimeWord {
   _isPrimeNumber (value) {
     const square = Math.floor(Math.sqrt(value))
     if (this.primeSquareMapStore[square]) return this.primeSquareMapStore[square]
-    let i = 2
     for (let i = 2; i <= square; i++) {
       if (value % i === 0) return false
     }
