@@ -33,11 +33,11 @@ describe('PrimeWords', () => {
     expect( (typeof primeWord.isPrime(Mock.words.nonPrimeWord)) ).to.be.equal('boolean')
   })
 
-  it ('Expect Mock primeWord to be equal a true', () => {
+  it ('Expect Mock primeWord argument test isPrime to be equal a true', () => {
     expect(primeWord.isPrime(Mock.words.primeWord)).to.be.equal(true)
   })
 
-  it ('Expect Mock nonPrimeWord to be equal a false', () => {
+  it('Expect Mock nonPrimeWord argument test isPrime to be equal a false', () => {
     expect(primeWord.isPrime(Mock.words.nonPrimeWord)).to.be.equal(false)
   })
 })
