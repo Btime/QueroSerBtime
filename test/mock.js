@@ -1,4 +1,7 @@
 export default {
-  primeWord: 'felipe',
-  nonPrimeWord: 'marcos'
+  invalidValue: 123456,
+  words: {
+    primeWord: 'felipe',
+    nonPrimeWord: 'marcos'
+  }
 }
