@@ -1,0 +1,35 @@
+{
+  "name": "queroserbtime",
+  "version": "1.0.0",
+  "description": "Apply for job in BTime company",
+  "main": "./test/prime-word.test.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register test --timeout 60000 --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeBarrosCruz/QueroSerBtime.git"
+  },
+  "keywords": [
+    "node",
+    "puzzle",
+    "btime"
+  ],
+  "author": "FelipeBarrosCruz <felipe.barros.pt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FelipeBarrosCruz/QueroSerBtime/issues"
+  },
+  "homepage": "https://github.com/FelipeBarrosCruz/QueroSerBtime#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.2",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "eslint": "^4.12.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-mocha": "^4.11.0",
+    "mocha": "^4.0.1"
+  }
+}
