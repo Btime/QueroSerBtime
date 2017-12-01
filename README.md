@@ -36,6 +36,7 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 **Duração:** de 1h à 1h30m
 
 \* Este processo pode ser alterado sem prévio aviso. Então, fique esperto com as atualizações deste README! :-)
+
 \** O tempo de duração serve apenas para ilustrar quanto tempo leva, mas não se prenda a ele, use o tempo que precisar! :-)
 
 ### [Dicas Importantes](id:DicasImportantes)
