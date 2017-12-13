@@ -35,7 +35,7 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 3. Visita aqui no escritório, com uma sessão de pair-programming.<br />
 **Duração:** de 1h à 1h30m **
 
-`* Este processo pode ser alterado sem prévio aviso. Então, fique esperto com as atualizações deste README! :-)`
+`* Este processo pode ser alterado sem prévio aviso. Então, fique esperto com as atualizações deste README!`
 
 `** O tempo de duração é apenas ilustrativo, mas não se prenda a ele, use o tempo que precisar! :-)`
 
