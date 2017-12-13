@@ -37,7 +37,7 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 
 \* Este processo pode ser alterado sem prévio aviso. Então, fique esperto com as atualizações deste README! :-)
 
-`\** O tempo de duração é apenas ilustrativo, mas não se prenda a ele, use o tempo que precisar! :-)`
+`** O tempo de duração é apenas ilustrativo, mas não se prenda a ele, use o tempo que precisar! :-)`
 
 ### [Dicas Importantes](id:DicasImportantes)
 Para um teste bem sucedido onde garantirá a próxima etapa, tente aplicar:
