@@ -27,17 +27,17 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 
 ### [Como me candidato?](id:ComoMeCandidato)
 1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **team@btime.com.br** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
-**Duração:** de 30m à 2h
+**Duração:** de 30m à 2h **
 
 2. Com hora marcada, um dos membros do nosso time entrará em contato com você por telefone ou Skype, para uma conversa descontraída sobre suas habilidades.<br />
-**Duração:** de 30m à 40m
+**Duração:** de 30m à 40m **
 
 3. Visita aqui no escritório, com uma sessão de pair-programming.<br />
-**Duração:** de 1h à 1h30m
+**Duração:** de 1h à 1h30m **
 
 \* Este processo pode ser alterado sem prévio aviso. Então, fique esperto com as atualizações deste README! :-)
 
-\** O tempo de duração serve apenas para ilustrar quanto tempo leva, mas não se prenda a ele, use o tempo que precisar! :-)
+`\** O tempo de duração é apenas ilustrativo, mas não se prenda a ele, use o tempo que precisar! :-)`
 
 ### [Dicas Importantes](id:DicasImportantes)
 Para um teste bem sucedido onde garantirá a próxima etapa, tente aplicar:
