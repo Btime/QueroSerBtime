@@ -3,7 +3,7 @@ declare(strict_types = 1);
 
 namespace App;
 
-use Exception;
+use InvalidArgumentException;
 
 class Word
 {
@@ -17,10 +17,10 @@ class Word
     public function validate()
     {
         if (preg_match("/^[a-zA-Z]+$/", $this->word) !== 1) {
-            throw new Exception('The string must contain only characters between a-z and A-Z.');
+            throw new InvalidArgumentException('The string must contain only characters between a-z and A-Z.');
         }
 
-        return;
+        return $this;
     }
 
     public function calculate(): int
@@ -36,8 +36,10 @@ class Word
         return $letterValue;
     }
 
-    public function checkPrime(int $value): string
+    public function isPrime(): bool
     {
+        $value = $this->calculate();
+
         $prime = 0;
 
         for ($i = 1; $i <= $value; $i++) {
@@ -46,6 +48,6 @@ class Word
             }
         }
 
-        return $prime > 2 ? 'Its not prime' : 'Its Prime';
+        return $prime > 2 ? false : true;
     }
 }

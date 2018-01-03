@@ -27,8 +27,9 @@ for ($i=0; $i < count($words); $i++) {
 
         echo 'Value for "' . $words[$i] . '" word: ' . $wordValue . PHP_EOL;
 
-        echo 'Is it prime? ' . $word->checkPrime($wordValue) . PHP_EOL . PHP_EOL;
-    } catch (Exception $e) {
+        $prime = boolval($word->validate()->isPrime()) ? 'true' : 'false';
+        echo 'Is it prime? ' . $prime . PHP_EOL . PHP_EOL;
+    } catch (InvalidArgumentException $e) {
         echo $e->getMessage() . PHP_EOL;
     }
 }
