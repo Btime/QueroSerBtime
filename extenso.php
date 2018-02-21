@@ -68,8 +68,4 @@ function extenso( $valor, $maiusculas=false ) {
       return (($rt) ? ($rt) : "Zero"); 
     }
 }
-
-$ext = extenso('10150.20', true);
-
-echo $ext;
 ?>
