@@ -1,0 +1,21 @@
+{
+    "name": "donti/teste1",
+    "description": "teste-developer",
+    "minimum-stability": "stable",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Fabio Busnello",
+            "email": "fabiobusnelo@hotmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "src\\": "src",
+        "tests\\": "tests"
+      }
+    },
+    "require": {
+        "phpunit/phpunit": "5"
+    }
+}
