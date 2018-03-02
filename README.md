@@ -1,18 +1,16 @@
 # Quero ser Btime!
 
-Nossa solução é um SaaS de Gestão de Equipes Externas, atuando com PHP e NodeJS (backend), Jquery e Angular 4 (frontend) e Android Nativo e React Native (mobile). Procuramos profissionais que tenham sólidos conhecimentos de arquitetura e capacidade de pensar fora da caixa solucionando problemas de forma simples e rápida, levando-se em conta temas como segurança, tratamento de erros, separação de camadas/responsabilidades, performance, reusabilidade e aderência a padrões de projetos.
+A Btime é uma startup que está há dois anos no mercado, mudando a forma com que as pessoas trabalham. 
 
-## Local
-
-Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
-
-## Nossa empresa
-
-A Btime é uma startup que está mudando a forma com que as pessoas trabalham. Fomos acelerados pela Liga AutoTech e agora pelo Oxigênio Aceleradora, com investimento da Porto Seguro e Plug and Play, e buscamos formar uma equipe qualificada e multidisciplinar para atender a crescente demanda, com objetivo de construir soluções inovadoras, onde maior valor é o sucesso de nossos clientes.
+Nossa solução para gestão de equipes de campo é web e mobile, otimizamos todo o fluxo operacional das empresas e tudo em tempo real. Com os resultados conquistadps nos últimos meses, fomos selecionados em dois programas de aceleração e recentemente a Plug n play (Vale do silício) e Porto Seguro investiram na Btime. Para ter ideia nos últimos 3 meses crescemos 215% e estamos buscando pessoas que queiram crescer junto com a gente ;)
 
 Nós oferecemos um ambiente descontraído em que todos os membros possuem a liberdade e responsabilidade de criar as melhores soluções possíveis, isso contando com o suporte de todos os membros, do estagiário até o CEO.
 
 Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, se você quer mudar o mundo =), venha com a Btime e faça parte dessa história.
+
+## Local
+
+Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 
 ## Aqui você irá
 
@@ -83,15 +81,12 @@ PJ a combinar
 - TDD
 - SOLID (object-oriented design)
 - Elastic Search
-- Java
 - NodeJs
 ----
 #### [Backend Engineer NodeJS](id:Qualificacoes-BE)
 **Qualificações mínimas**
 - JavaScript
-- NodeJS
-- Express
-- Sequelize
+- Node
 - MySQL
 - RESTFul API
 - Design Patterns
@@ -108,13 +103,14 @@ PJ a combinar
 - TDD
 - SOLID (object-oriented design)
 - Elastic Search
-- Java
-- PHP
+- Hapi
+- Seneca
+- Sequelize
 ----
 #### [Frontend Engineer](id:Qualificacoes-FE)
 **Qualificações mínimas**
 - JavaScript
-- Angular 4
+- Angular 4~5
 - HTML5
 - CSS3
 - SASS
@@ -128,14 +124,12 @@ PJ a combinar
 **Diferenciais:**
 - TDD
 - SOLID (object-oriented design)
-- React
-- VueJS
 ----
 #### [Mobile Engineer](id:Qualificacoes-ME)
 **Qualificações mínimas**
 - JavaScript
-- React Native
-- React
+- Ionic 3
+- Angular 4~5
 
 **Desejáveis:**
 - Git/BitBucket
