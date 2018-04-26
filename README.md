@@ -1,8 +1,8 @@
 # Quero ser Btime!
 
-A Btime é uma startup que está há dois anos no mercado, mudando a forma com que as pessoas trabalham. 
+A Btime é uma startup que está há três anos no mercado, mudando a forma com que as pessoas trabalham. 
 
-Nossa solução para gestão de equipes de campo é web e mobile, otimizamos todo o fluxo operacional das empresas e tudo em tempo real. Com os resultados conquistadps nos últimos meses, fomos selecionados em dois programas de aceleração e recentemente a Plug n play (Vale do silício) e Porto Seguro investiram na Btime. Para ter ideia nos últimos 3 meses crescemos 215% e estamos buscando pessoas que queiram crescer junto com a gente ;)
+Nossa solução para gestão de equipes de campo é web e mobile, otimizamos todo o fluxo operacional das empresas e tudo em tempo real. Com os resultados conquistadps nos últimos meses, fomos selecionados em dois programas de aceleração e recentemente a Plug n play (Vale do silício) e Porto Seguro investiram na Btime. Para ter ideia nos últimos 6 meses crescemos 300% e estamos buscando pessoas que queiram crescer junto com a gente ;)
 
 Nós oferecemos um ambiente descontraído em que todos os membros possuem a liberdade e responsabilidade de criar as melhores soluções possíveis, isso contando com o suporte de todos os membros, do estagiário até o CEO.
 
@@ -24,7 +24,7 @@ Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 
 
 ### [Como me candidato?](id:ComoMeCandidato)
-1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **team@btime.com.br** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
+1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **team@btime.io** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
 **Duração:** de 30m à 2h **
 
 2. Com hora marcada, um dos membros do nosso time entrará em contato com você por telefone ou Skype, para uma conversa descontraída sobre suas habilidades.<br />
@@ -40,7 +40,7 @@ Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 ### [Dicas Importantes](id:DicasImportantes)
 Para um teste bem sucedido onde garantirá a próxima etapa, tente aplicar:
 
-* Orientação a Objetos;
+* Orientação a Objetos;-
 * Legibilidade de Código;
 * Testes Unitários;
 * Design Patterns;
@@ -60,28 +60,6 @@ PJ a combinar
 
 
 ## [Posições](id:posicoes)
-----
-#### [Backend Engineer PHP](id:Qualificacoes-BE)
-**Qualificações mínimas**
-- PHP
-- Symfony Framework
-- MySQL
-- RESTFul API
-- Design Patterns
-
-**Desejáveis:**
-- Git/BitBucket
-- Google APIs
-- Redis
-- RabbitMQ
-- Docker
-- Agile/SCRUM
-
-**Diferenciais:**
-- TDD
-- SOLID (object-oriented design)
-- Elastic Search
-- NodeJs
 ----
 #### [Backend Engineer NodeJS](id:Qualificacoes-BE)
 **Qualificações mínimas**
@@ -143,4 +121,4 @@ PJ a combinar
 - Swift iOS Native
 
 ## [Nossos Links](id:Extra-Links)
-* [Btime](https://btime.com.br/)
+* [Btime](https://btime.io)
