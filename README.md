@@ -40,7 +40,7 @@ Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 ### [Dicas Importantes](id:DicasImportantes)
 Para um teste bem sucedido onde garantirá a próxima etapa, tente aplicar:
 
-* Orientação a Objetos;-
+* Orientação a Objetos;
 * Legibilidade de Código;
 * Testes Unitários;
 * Design Patterns;
