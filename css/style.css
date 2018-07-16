@@ -1,0 +1,38 @@
+#cheque{
+    background-color:#FFF;
+    padding: 1em 1.5em;
+    border:1px solid #CCC;
+    width: 75%;
+    margin:auto;
+    font-size:13px;
+    box-shadow: -9px 9px 15px rgba(0,0,0,.13);
+    position:relative;
+}
+#cheque:before{
+    background: none repeat scroll 0 0 #BDBB8B;
+    border-color: #e9ecef #e9ecef #CCC #CCC;
+    border-style: solid;
+    border-width: 0 35px 35px 0;
+    content: "";
+    display: block;
+    position: absolute;
+    right: -1px;
+    top: -1px;
+    width: 0;
+}
+#cheque #cab{
+    margin-bottom:13px;
+}
+#cheque #value,
+#cheque #extenso{
+    font-weight: bold;
+}
+#cheque .btop{
+    border-top:1px solid #bbb;
+}
+#cheque .bbot{
+    border-bottom:1px solid #bbb;
+}
+#cheque #data{
+    text-align:right;
+}
