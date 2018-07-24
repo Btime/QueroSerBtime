@@ -10,7 +10,7 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 
 ## [Local](id:place)
 
-Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
+Alameda Vicente Pinzon, 120 - Vila Olimpia, São Paulo - SP | CUBO (Itaú)
 
 ## [Aqui você irá](id:youWill)
 
