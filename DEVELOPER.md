@@ -22,11 +22,10 @@ Utilizamos a metodologia **Agile Scrum**, com **Sprints** quinzenais:
 ## O que usamos?
 
 - **Linguagens:** PHP, Javascript, NodeJS, TypeScript, Android Java, iOS Swift
-- **Frameworks:** Symfony, Express, Angular 4, React Native
-- **Database:** MySQL
-- **Database Cache:** Redis (Bluemix)
+- **Frameworks:** Symfony, Hapi, Angular 5
+- **Database:** MySQL, MongoDB
+- **Database Cache:** Redis
 - **Queue Service:** RabbitMQ
-- **Queue Consumer:** RabbitMQ Cli Consumer - Go Lang
-- **Push Notification:** Firebase Cloud Messaging
+- **Push Notification:** OneSignal
 - **Sendmail:** Mandrill
-- **Servers:** Amazon AWS S3 / IBM Bluemix
+- **Servers:** Amazon AWS
