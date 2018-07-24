@@ -1,4 +1,4 @@
-# Quero ser Btime!
+# [Quero ser Btime!](id:title)
 
 A Btime é uma startup que está há três anos no mercado, mudando a forma com que as pessoas trabalham. 
 
@@ -8,11 +8,11 @@ Nós oferecemos um ambiente descontraído em que todos os membros possuem a libe
 
 Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, se você quer mudar o mundo =), venha com a Btime e faça parte dessa história.
 
-## Local
+## [Local](id:place)
 
 Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 
-## Aqui você irá
+## [Aqui você irá](id:youWill)
 
 - Garantir o desenvolvimento de software com qualidade, através de integração contínua, automação de testes e profundos code-reviews;
 - Construir plataformas sustentáveis e estáveis para novas ideias de produto; 
@@ -23,7 +23,7 @@ Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 - Trabalhar com time multidisciplinar.
 
 
-### [Como me candidato?](id:ComoMeCandidato)
+### [Como me candidato?](id:howDoIApply)
 1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **team@btime.io** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
 **Duração:** de 30m à 2h **
 
@@ -37,7 +37,7 @@ Oxigênio Aceleradora, São Paulo - SP | próximo ao metrô Marechal Deodoro
 
 `** O tempo de duração é apenas ilustrativo, mas não se prenda a ele, use o tempo que precisar! :-)`
 
-### [Dicas Importantes](id:DicasImportantes)
+### [Dicas Importantes](id:importantTips)
 Para um teste bem sucedido onde garantirá a próxima etapa, tente aplicar:
 
 * Orientação a Objetos;
@@ -46,7 +46,7 @@ Para um teste bem sucedido onde garantirá a próxima etapa, tente aplicar:
 * Design Patterns;
 * S.O.L.I.D.
 
-### [Requisitos Básicos](id:RequisitosBasicos)
+### [Requisitos Básicos](id:basicRequirements)
 Precisamos de gente que:
 
 * Procure o estado da arte do código, da arquitetura e do design de software, **MAS** que tenha **plena noção** de que nem sempre é possível alcançá-lo em um ambiente ágil =(;
@@ -59,9 +59,50 @@ Precisamos de gente que:
 PJ a combinar
 
 
-## [Posições](id:posicoes)
+## [Posições](id:positions)
 ----
-#### [Backend Engineer NodeJS](id:Qualificacoes-BE)
+#### [Mobile Engineer - Android](id:positionMEAndroid)
+**Qualificações mínimas**
+- Android Nativo
+- Java
+- Retrofit
+- Realm
+- RESTFul API
+- Design Patterns
+
+**Desejáveis:**	
+- Git/BitBucket
+- Google APIs
+- Geolocalização
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD
+- SOLID (object-oriented design)
+----
+#### [Backend Engineer - PHP](id:positionBEPHP)	
+**Qualificações mínimas**
+- PHP
+- Symfony Framework
+- MySQL
+- RESTFul API
+- Design Patterns
+
+**Desejáveis:**	
+- Git/BitBucket
+- Google APIs
+- Redis
+- RabbitMQ
+- Docker
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD
+- SOLID (object-oriented design)
+- Elastic Search
+- NodeJs
+----
+#### [Backend Engineer - NodeJS](id:positionBENodeJS)
 **Qualificações mínimas**
 - JavaScript
 - Node
@@ -85,7 +126,7 @@ PJ a combinar
 - Seneca
 - Sequelize
 ----
-#### [Frontend Engineer](id:Qualificacoes-FE)
+#### [Frontend Engineer - Angular](id:positionFEAngular)
 **Qualificações mínimas**
 - JavaScript
 - Angular 4~5
@@ -102,23 +143,6 @@ PJ a combinar
 **Diferenciais:**
 - TDD
 - SOLID (object-oriented design)
-----
-#### [Mobile Engineer](id:Qualificacoes-ME)
-**Qualificações mínimas**
-- JavaScript
-- Ionic 3
-- Angular 4~5
 
-**Desejáveis:**
-- Git/BitBucket
-- Google APIs
-- Agile/SCRUM
-
-**Diferenciais:**
-- TDD
-- SOLID (object-oriented design)
-- Java Android Native
-- Swift iOS Native
-
-## [Nossos Links](id:Extra-Links)
+## [Nossos Links](id:extraLinks)
 * [Btime](https://btime.io)
