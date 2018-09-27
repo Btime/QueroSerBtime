@@ -1,0 +1,27 @@
+<div class="header">
+  {{nota}}
+</div>
+<div class="flex-container">
+  <div class="div1" (click)="notaDez()">
+    10
+    <div>{{contadorNotaDez}}</div>
+  </div>
+
+  <div class="div2" (click)="notaVinte()">
+    20
+    <div>{{contadorNotaVinte}}</div>
+
+  </div>
+  <div class="div3" (click)="notaCinquenta()">
+    50
+    <div>{{contadorNotaCinquenta}}</div>
+  </div>
+  <div class="div4" (click)="notaCem()">
+    100
+    <div>{{contadorNotaCem}}</div>
+  </div>
+</div>
+<div class="item">
+    <div class="btn_sacar">SACAR</div>
+    <div class="btn_corrigir" (click)="corrigir()">CORRIGIR</div>
+</div>

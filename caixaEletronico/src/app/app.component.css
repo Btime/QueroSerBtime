@@ -1,0 +1,84 @@
+* {
+  font-family: cursive;
+}
+.header {
+  text-align: center;
+  font-size: 50px;
+  margin: 10% 0 8% 0;
+  color: #FFF;
+}
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+
+  border-radius: 5px;
+}
+.item {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.item > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 90%;
+
+  width: 20% auto;
+  border-radius: 5px;
+  border: 1px solid rgba(136, 134, 134, 0.651);
+}
+
+.item > .btn_sacar {
+  color: rgb(240, 236, 236);
+  background-color: rgb(69, 197, 69);
+}
+.item > .btn_sacar:hover {
+  color: rgb(240, 236, 236);
+  background-color: rgb(5, 117, 5);
+}
+.item > .btn_corrigir {
+  color: #FFF;
+  background-color: rgb(214, 13, 13);
+}
+.item > .btn_corrigir:hover {
+  color: #FFF;
+  background-color: rgb(182, 35, 35);
+}
+.item > .btn_corrigir {
+  color: #FFF;
+  background-color: rgb(214, 13, 13);
+}
+.item > .btn_x:hover {
+  color: #FFF;
+  background-color: rgb(112, 110, 110);
+}
+.flex-container > .div1:hover{
+  background-color: rgb(114, 111, 111);
+  color: #FFF;
+}
+.flex-container > .div2:hover{
+  background-color: rgb(114, 111, 111);
+  color: #FFF;
+}
+.flex-container > .div3:hover{
+  background-color: rgb(114, 111, 111);
+  color: #FFF;
+}
+.flex-container > .div4:hover{
+  background-color: rgb(114, 111, 111);
+  color: #FFF;
+}
