@@ -28,12 +28,8 @@ A função deve retornar -1 se o índice de equilíbrio não existir.
 #Class para realizar 
 class vetor{
 	public $itens = array();
-	public function _constructor( $vector ){
-		if( count( $vector ) ){
-			foreach ($vector as $key => $value) {
-				$this->itens[ $key ] = $value ;
-			}
-		}
+	public function add( $key, $value){
+		$this->itens[ $key ] = $value ;
 	}
 	public function teste(){
 		$queue = array(
@@ -53,6 +49,9 @@ class vetor{
 
 #teste
 $input = array( -7 , 1 ,5 , 2 , -4 ,3 , 0 );
-$v = new vetor( $input );
+$v = new vetor();
+foreach ( $input as $key => $value) {
+	$v->add( $key , $value ); 
+}
 print_r( $v->teste() );
 ?>
