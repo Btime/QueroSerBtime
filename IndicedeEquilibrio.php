@@ -32,18 +32,15 @@ class vetor{
 		$this->itens[ $key ] = $value ;
 	}
 	public function teste(){
-		$queue = array(
-			"vector" => $this->itens
-			, "return" => array()
-		);
+		$queue = array();
 		for( $x = 0 ; $x < count( $this->itens ) ; $x++ ){
 			if( $x + 1 < count( $this->itens ) ){
 				if( array_sum( array_values( array_slice( $this->itens, 0 , $x + 1 ) ) ) == array_sum( array_values( array_slice( $this->itens , $x + 2 ) ) ) ){
-					$queue["return"][] = ( $x + 1 ) ;
+					$queue[] = ( $x + 1 ) ;
 				}
 			}
 		}
-		return $queue;
+		return count( $queue ) ? $queue : -1;
 	}
 }
 
