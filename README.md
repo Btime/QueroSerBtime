@@ -76,7 +76,7 @@ PJ a combinar
 - TDD/BDD
 - SOLID (object-oriented design)
 ----
-#### [Backend Engineer](id:BackendPosition)
+#### [Backend NodeJS Engineer](id:BackendPosition)
 **Qualificações mínimas**
 - JavaScript
 - Node
@@ -100,7 +100,7 @@ PJ a combinar
 - Seneca
 - Sequelize
 ----
-#### [Frontend Engineer - Angular](id:FrontendPosition)
+#### [Frontend Angular Engineer](id:FrontendPosition)
 **Qualificações mínimas**
 - TypeScript
 - Angular 2~6
@@ -117,6 +117,22 @@ PJ a combinar
 **Diferenciais:**
 - TDD/BDD
 - SOLID (object-oriented design)
+----
+#### [DevOps - Infrastructure Engineer](id:DevOpsPosition)
+**Qualificações mínimas**
+- Amazon Web Services
+- Docker
+- CI/CD
+
+**Desejáveis:**
+- Git/BitBucket
+- Google APIs
+- Agile/SCRUM
+
+**Diferenciais:**
+- Kubernetes
+- Rancher
+- CircleCI
 
 ## [Nossos Links](id:extraLinks)
 * [Btime](https://btime.io)
