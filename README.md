@@ -79,8 +79,8 @@ PJ Fulltime Presencial
 #### [Backend NodeJS Engineer](id:BackendPosition)
 **Qualificações mínimas**
 - JavaScript
-- Node
-- MySQL
+- NodeJS
+- PostgreSQL
 - RESTFul API
 - Design Patterns
 
