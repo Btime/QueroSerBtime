@@ -10,7 +10,7 @@ Se você quer mudar a vida das pessoas e a forma que elas trabalham, ou melhor, 
 
 ## [Local](id:place)
 
-Alameda Vicente Pinzon, 120 - Vila Olimpia, São Paulo - SP | CUBO (Itaú)
+Alameda Vicente Pinzon, 54 - Vila Olimpia, São Paulo - SP | CUBO (Itaú)
 
 ## [Aqui você irá](id:youWill)
 
@@ -57,6 +57,66 @@ Precisamos de gente que:
 ## Modelo de contrato
 
 PJ a combinar
+
+## [Posições](id:positions)
+----
+#### [Mobile iOS Engineer](id:MobileiOSPosition)
+**Qualificações mínimas**
+- Swift
+- CoreData
+- RESTFul API
+- Design Patterns
+
+**Desejáveis:**
+- Git/BitBucket
+- Google APIs
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD/BDD
+- SOLID (object-oriented design)
+----
+#### [Backend Engineer](id:BackendPosition)
+**Qualificações mínimas**
+- JavaScript
+- Node
+- MySQL
+- RESTFul API
+- Design Patterns
+
+**Desejáveis:**
+- Git/BitBucket
+- Google APIs
+- Redis
+- RabbitMQ
+- Docker
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD/BDD
+- SOLID (object-oriented design)
+- Elastic Search
+- Hapi
+- Seneca
+- Sequelize
+----
+#### [Frontend Engineer - Angular](id:FrontendPosition)
+**Qualificações mínimas**
+- TypeScript
+- Angular 2~6
+- HTML5
+- CSS3
+- SASS
+
+**Desejáveis:**
+- Git/BitBucket
+- Google APIs
+- Docker
+- Agile/SCRUM
+
+**Diferenciais:**
+- TDD/BDD
+- SOLID (object-oriented design)
 
 ## [Nossos Links](id:extraLinks)
 * [Btime](https://btime.io)
