@@ -56,7 +56,7 @@ Precisamos de gente que:
 
 ## Modelo de contrato
 
-PJ a combinar
+PJ Fulltime Presencial
 
 ## [Posições](id:positions)
 ----
