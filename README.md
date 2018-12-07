@@ -1,5 +1,7 @@
 # [Quero ser Btime!](id:title)
 
+[English Version](https://github.com/Btime/IWantToBeBtime)
+
 A Btime é uma startup que está há três anos no mercado, mudando a forma com que as pessoas trabalham. 
 
 Nossa solução para gestão de equipes de campo é web e mobile, otimizamos todo o fluxo operacional das empresas e tudo em tempo real. Com os resultados conquistadps nos últimos meses, fomos selecionados em dois programas de aceleração e recentemente a Plug n play (Vale do silício) e Porto Seguro investiram na Btime. Para ter ideia nos últimos 6 meses crescemos 300% e estamos buscando pessoas que queiram crescer junto com a gente ;)
