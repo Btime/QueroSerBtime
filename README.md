@@ -103,7 +103,7 @@ PJ Fulltime Presencial
 #### [Frontend Angular Engineer](id:FrontendPosition)
 **Qualificações mínimas**
 - TypeScript
-- Angular 2~6
+- Angular 2~7 (usamos Angular 5)
 - HTML5
 - CSS3
 - SASS
