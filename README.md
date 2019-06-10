@@ -26,7 +26,7 @@ Alameda Vicente Pinzon, 54 - Vila Olimpia, São Paulo - SP | CUBO (Itaú)
 
 
 ### [Como me candidato?](id:howDoIApply)
-1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **team@btime.io** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
+1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o conforme os requisitos da vaga e nos envie um e-mail para **team@btime.io** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
 **Duração:** de 30m à 2h **
 
 2. Com hora marcada, um dos membros do nosso time entrará em contato com você por telefone ou Skype, para uma conversa descontraída sobre suas habilidades.<br />
@@ -90,8 +90,9 @@ PJ Fulltime Presencial
 - Git/BitBucket
 - Google APIs
 - Redis
-- RabbitMQ
+- Mongo
 - Docker
+- Micro-services
 - Agile/SCRUM
 
 **Diferenciais:**
@@ -101,11 +102,12 @@ PJ Fulltime Presencial
 - Hapi
 - Seneca
 - Sequelize
+- Kubernetes
 ----
 #### [Frontend Angular Engineer](id:FrontendPosition)
 **Qualificações mínimas**
 - TypeScript
-- Angular 2~7 (usamos Angular 5)
+- Angular 2~7 (usamos Angular 6)
 - HTML5
 - CSS3
 - SASS
@@ -124,6 +126,7 @@ PJ Fulltime Presencial
 **Qualificações mínimas**
 - Amazon Web Services
 - Docker
+- Kubernetes
 - CI/CD
 
 **Desejáveis:**
@@ -132,9 +135,7 @@ PJ Fulltime Presencial
 - Agile/SCRUM
 
 **Diferenciais:**
-- Kubernetes
 - Rancher
-- CircleCI
 
 ## [Nossos Links](id:extraLinks)
 * [Btime](https://btime.io)
